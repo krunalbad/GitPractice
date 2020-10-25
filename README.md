@@ -31,12 +31,12 @@ Create gitignore file <br />
 
 
 Stage changes <br />
-`git add .gitignore`
+`git add .gitignore` <br />
 `git add -A`
 
  
 Un-stage changes <br />
-`git reset .gitignore`
+`git reset .gitignore` <br />
 `git reset`
 
 
