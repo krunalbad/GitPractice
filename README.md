@@ -65,6 +65,29 @@ Push <br />
 `git push origin <branch-name>`
 
 
+Create Branch <br />
+`git branch <branch-name>`
+
+
+Checkout branch (Change your local branch) <br />
+`git checkout <branch-name>`
+
+
+List all local branches <br />
+`git branch`
+
+
+List all remote branches <br />
+`git branch -a`
+
+
+
+
+
+
+
+
+
 
 
 
