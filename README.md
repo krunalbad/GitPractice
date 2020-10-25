@@ -28,5 +28,11 @@ Stage changes <br />
 `git add -A`
 
  
+Un-stage changes <br />
+`git reset .gitignore`
+`git reset`
+
+Commit  <br />
+`git commit -m "Your custom message"`
  
 
