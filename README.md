@@ -1,11 +1,13 @@
 # GitPractice
 
+
 Youtube 1: https://www.youtube.com/watch?v=HVsySz-h9r4
+
 
 Check Git version <br />
 `git --version` - To check the current version of the git installed in your local machine
  
- 
+
 Set Git global config <br />
 `git config --global user.name "Krunal Badami"` <br />
 `git config --global user.email "krunalbadami@gmail.com"`
@@ -52,6 +54,7 @@ Get Latest commit <br />
 
 Clone Repo <br />
 `git clone <url>` <br />
+`git clone <https://username@git-url.git>` <br />
 `git clone <url> <where-to-clone>`
 
 
