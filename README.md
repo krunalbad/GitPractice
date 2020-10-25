@@ -58,11 +58,14 @@ Get difference <br />
 
 
 Pull <br />
-`git pull origin <branch-name>`
+`git pull origin <branch-name>` <br />
+`git pull`
 
 
 Push <br />
-`git push origin <branch-name>`
+`git push origin <branch-name>` <br />
+`git push -u origin <branch-name>` <br />
+`git push`
 
 
 Create Branch <br />
@@ -77,14 +80,25 @@ List all local branches <br />
 `git branch`
 
 
-List all remote branches <br />
+List all local/remote branches <br />
 `git branch -a`
 
 
+List merge branches <br />
+`git branch --merged`
+
+
+Merge branche <br />
+`git merge <branch-name>`
+
+
+Delete local branch <br />
+`git branch -d <branch-name>`
 
 
 
-
+Delete remote branch <br />
+`git push origin --delete <branch-name>`
 
 
 
